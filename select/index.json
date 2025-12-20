@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "TSUNAMI",
+  "base_artist": "サザンオールスターズ",
+  "createdAt": "2025-12-20T11:00:15.027940Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tsunami",
+      "artist": "Young Thug feat. Young Stoner Life Records",
+      "has_synced": true,
+      "path": "select/01_Tsunami_Young_Thug_feat._Young_Stoner_Life_Records.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tsunami",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/02_Tsunami_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "TSUNAMI",
+      "artist": "Debbie Gibson",
+      "has_synced": true,
+      "path": "select/03_TSUNAMI_Debbie_Gibson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tsunami Tears",
+      "artist": "Canidas",
+      "has_synced": true,
+      "path": "select/04_Tsunami_Tears_Canidas.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tsunami",
+      "artist": "Gorky’s Zygotic Mynci",
+      "has_synced": false,
+      "path": "select/05_Tsunami_Gorky’s_Zygotic_Mynci.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tsunami",
+      "artist": "Sepultura",
+      "has_synced": false,
+      "path": "select/06_Tsunami_Sepultura.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tsunami (feat. Davido)",
+      "artist": "Pop Smoke feat. DaVido",
+      "has_synced": false,
+      "path": "select/07_Tsunami_(feat._Davido)_Pop_Smoke_feat._DaVido.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tsunami (feat. DaVido)",
+      "artist": "Pop Smoke",
+      "has_synced": false,
+      "path": "select/08_Tsunami_(feat._DaVido)_Pop_Smoke.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Wetter Than Tsunami",
+      "artist": "Riff Raff",
+      "has_synced": true,
+      "path": "select/09_Wetter_Than_Tsunami_Riff_Raff.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Tsunami",
+      "artist": "Steriogram",
+      "has_synced": true,
+      "path": "select/10_Tsunami_Steriogram.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tsunami",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/11_Tsunami_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tsunami",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/12_Tsunami_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Tsunami",
+      "artist": "Manic Street Preachers",
+      "has_synced": true,
+      "path": "select/13_Tsunami_Manic_Street_Preachers.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Tsunami",
+      "artist": "Pop Smoke",
+      "has_synced": false,
+      "path": "select/14_Tsunami_Pop_Smoke.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Tsunami",
+      "artist": "Pop Smoke",
+      "has_synced": true,
+      "path": "select/15_Tsunami_Pop_Smoke.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Tsunami and Submergence",
+      "artist": "Allegaeon",
+      "has_synced": true,
+      "path": "select/16_Tsunami_and_Submergence_Allegaeon.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Tsunami",
+      "artist": "Jelena Rozga",
+      "has_synced": true,
+      "path": "select/17_Tsunami_Jelena_Rozga.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TSUNAMI",
+      "artist": "サザンオールスターズ",
+      "has_synced": false,
+      "path": "select/pl_01_TSUNAMI_サザンオールスターズ.txt"
+    }
+  ]
+}
